@@ -13,6 +13,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-boost/"
         },
         {
@@ -21,6 +22,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-confirm/"
         },
         {
@@ -29,6 +31,7 @@
           "description-sections": {
             "Not inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-confirm/"
         },
         {
@@ -37,6 +40,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-disable"
         },
         {
@@ -45,6 +49,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-encoding"
         },
         {
@@ -53,6 +58,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-ext"
         },
         {
@@ -61,6 +67,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-get"
         },
         {
@@ -69,6 +76,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-headers"
         },
         {
@@ -77,6 +85,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-history-elt"
         },
         {
@@ -85,6 +94,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-include"
         },
         {
@@ -93,6 +103,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-indicator"
         },
         {
@@ -101,6 +112,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-disinherit"
         },
         {
@@ -109,6 +121,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-params"
         },
         {
@@ -117,6 +130,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-patch"
         },
         {
@@ -125,6 +139,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-post"
         },
         {
@@ -133,6 +148,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-preserve"
         },
         {
@@ -141,6 +157,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-prompt"
         },
         {
@@ -149,6 +166,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-push-url"
         },
         {
@@ -157,6 +175,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-put"
         },
         {
@@ -165,6 +184,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-request"
         },
         {
@@ -173,6 +193,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-select"
         },
         {
@@ -181,6 +202,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-sse"
         },
         {
@@ -189,6 +211,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-swap-oob"
         },
         {
@@ -197,6 +220,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-swap"
         },
         {
@@ -205,6 +229,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-sync"
         },
         {
@@ -213,6 +238,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-target"
         },
         {
@@ -221,6 +247,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-trigger"
         },
         {
@@ -229,6 +256,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-vals"
         },
         {
@@ -237,6 +265,7 @@
           "description-sections": {
             "Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-vars"
         },
         {
@@ -245,6 +274,7 @@
           "description-sections": {
             "Not Inherited": ""
           },
+          "priority": "lowest",
           "doc-url": "https://htmx.org/attributes/hx-ws"
         }
       ]
@@ -254,26 +284,31 @@
         {
           "name": "htmx-added",
           "description": "Applied to a new piece of content before it is swapped, removed after it is settled.",
+          "priority": "lowest",
           "doc-url": "https://htmx.org/reference/#classes"
         },
         {
           "name": "htmx-indicator",
           "description": "A dynamically generated class that will toggle visible (opacity:1) when a `htmx-request` class is present.",
+          "priority": "lowest",
           "doc-url": "https://htmx.org/reference/#classes"
         },
         {
           "name": "htmx-request",
           "description": "Applied to either the element or the element specified with `hx-indicator` while a request is ongoing.",
+          "priority": "lowest",
           "doc-url": "https://htmx.org/reference/#classes"
         },
         {
           "name": "htmx-settling",
           "description": "Applied to a target after content is swapped, removed after it is settled. The duration can be modified via `hx-swap`.",
+          "priority": "lowest",
           "doc-url": "https://htmx.org/reference/#classes"
         },
         {
           "name": "htmx-swapping",
           "description": "Applied to a target before any content is swapped, removed after it is swapped. The duration can be modified via `hx-swap`.",
+          "priority": "lowest",
           "doc-url": "https://htmx.org/reference/#classes"
         }
       ]
